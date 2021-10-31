@@ -1,8 +1,8 @@
 # PACKAGE
 
-package pgp maildir
+package crypto maildir
 
-This package is used for writing encrypted mails to a maildir, according to
+This package is used for writing encrypted mails to a maildir structure, according to
 the specification located at http://www.courier-mta.org/maildir.html and https://datatracker.ietf.org/doc/html/rfc4880
 
 
